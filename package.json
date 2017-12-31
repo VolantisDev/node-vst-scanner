@@ -1,6 +1,6 @@
 {
   "name": "vst-scanner",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A library for reading information from VST2 and VST3 files.",
   "main": "index.js",
   "scripts": {
